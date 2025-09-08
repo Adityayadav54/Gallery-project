@@ -1,1 +1,1 @@
-# Gallery-project
+# CodeAlpha_Galleryproject
